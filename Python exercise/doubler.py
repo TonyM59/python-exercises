@@ -6,6 +6,6 @@
 def doubler(numbers):
     output = []
     for x in numbers:
-        output.append(x*2)
-        print(output)
+      output.append(x*2)
+    print(output)
 doubler([2,4,6])
